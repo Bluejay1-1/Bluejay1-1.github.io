@@ -1,9 +1,9 @@
 
-    # Jaden Cardona
+# Jaden Cardona
 
     I am a computer science major in cybersecurity at CSUF and I plan on graduating in 2029.
 
-    ## Favorite CPSC 120L Labs
+## Favorite CPSC 120L Labs
 
 Lab 1, part 1
 I loved this lab because it was the very first lab we did. The lab consisted of creating strings and creating our git hub accounts. We needed to create strings that were compiled into statements. It was challenging at first because it was my first time coding a string with C++.
