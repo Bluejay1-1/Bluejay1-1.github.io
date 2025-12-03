@@ -1,7 +1,7 @@
 
 # Jaden Cardona
 
-    I am a computer science major in cybersecurity at CSUF and I plan on graduating in 2029.
+I am a computer science major in cybersecurity at CSUF and I plan on graduating in 2029.
 
 ## Favorite CPSC 120L Labs
 
